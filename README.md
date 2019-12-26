@@ -17,7 +17,7 @@ The eye-tracker does not incur any physically invasive procedures and the risks 
 Data collected by the researchers will be anonymized, and eye-tracker log data or calibration profiles will not identify participants. We will identify participants by numbers or pseudonyms in any internal or academic research publication or presentation. At any point in time will employers have access to the identifying information.
 
 
-All data will be anonymized before and will not contain any identifying information. A sample of the anonymized data is included as part of the samples folder.
+All data will be anonymized before and will not contain any identifying information. A sample of the anonymized data is included at [sample_data.zip](./sample_data.zip).
 
 ## Benefits
 
